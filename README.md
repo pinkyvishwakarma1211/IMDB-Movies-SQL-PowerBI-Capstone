@@ -24,7 +24,6 @@ This project analyses a movie dataset sourced from IMDB, stored in a MySQL datab
 | **MySQL** | Hosting the `project_movie_database` schema |
 | **Microsoft Excel** | Staging area for the exported, query-ready dataset |
 | **Power BI Desktop** | Building the interactive dashboard |
-| **Word / PowerPoint** | Final report and presentation deliverables |
 
 ---
 
@@ -109,5 +108,3 @@ The exported dataset was loaded into Power BI Desktop to build an interactive da
 ---
 
 *This project was completed as part of the SQL for Data Analysis capstone (PRSQL-01).*
-
-
